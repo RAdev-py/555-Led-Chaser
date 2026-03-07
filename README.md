@@ -39,8 +39,6 @@ The board was designed in **KiCad**. It is a 2-layer PCB kept under 100×100mm. 
 | 9 | Pin Header (power) | 1×2 | 2 | [DigiKey](https://www.digikey.com/en/products/detail/adam-tech/PH2-02-UA/9830344) |
 | 10 | PCB | Custom, 2-layer | 1 | [JLCPCB](https://jlcpcb.com) |
 
-> Full BOM also available as `bom.csv` in the root of this repository.
-
 ---
 
 ## Repository Structure
