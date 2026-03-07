@@ -40,23 +40,3 @@ The board was designed in **KiCad**. It is a 2-layer PCB kept under 100×100mm. 
 | 10 | PCB | Custom, 2-layer | 1 | [JLCPCB](https://jlcpcb.com) |
 
 ---
-
-## Repository Structure
-
-```
-555-chaser/
-├── README.md
-├── bom.csv
-├── images/
-│   ├── 3d_render.png
-│   ├── pcb_layout.png
-│   └── schematic.png
-├── kicad/
-│   ├── 555-chaser.kicad_pro
-│   ├── 555-chaser.kicad_sch
-│   ├── 555-chaser.kicad_pcb
-│   └── gerbers/
-│       └── gerbers.zip
-```
-
----
