@@ -1,21 +1,21 @@
 Reference,Component,Value,Quantity,Package,Link
-U1,555 Timer IC,NE555P,1,DIP-8,https://www.digikey.com/en/products/detail/texas-instruments/NE555P/277735
-U2,Decade Counter IC,CD4017BE,1,DIP-16,https://www.digikey.com/en/products/detail/texas-instruments/CD4017BE/67073
-R1,Resistor,1kΩ,1,Through-hole axial,https://www.digikey.com/en/products/detail/yageo/CFR-25JB-52-1K/338
-R2,Resistor,1kΩ,1,Through-hole axial,https://www.digikey.com/en/products/detail/yageo/CFR-25JB-52-1K/338
-R3,Resistor,470Ω,1,Through-hole axial,https://www.digikey.com/en/products/detail/yageo/CFR-25JB-52-470R/343
-RV1,Potentiometer,100kΩ,1,Through-hole,https://www.digikey.com/en/products/detail/bourns-inc/3386P-1-104LF/1088979
-C1,Electrolytic Capacitor,10µF,1,Through-hole radial,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ECA-1HM100/245067
-C2,Ceramic Capacitor,0.01µF,1,Through-hole,https://www.digikey.com/en/products/detail/kemet/C320C103K5R5TA/818254
-D1,LED 5mm,Red,1,Through-hole 5mm,https://www.digikey.com/en/products/detail/kingbright/WP7113ID/1747663
-D2,LED 5mm,Red,1,Through-hole 5mm,https://www.digikey.com/en/products/detail/kingbright/WP7113ID/1747663
-D3,LED 5mm,Orange,1,Through-hole 5mm,https://www.digikey.com/en/products/detail/kingbright/WP7113SYD/1747666
-D4,LED 5mm,Orange,1,Through-hole 5mm,https://www.digikey.com/en/products/detail/kingbright/WP7113SYD/1747666
-D5,LED 5mm,Yellow,1,Through-hole 5mm,https://www.digikey.com/en/products/detail/kingbright/WP7113YD/1747668
-D6,LED 5mm,Yellow,1,Through-hole 5mm,https://www.digikey.com/en/products/detail/kingbright/WP7113YD/1747668
-D7,LED 5mm,Emerald Green,1,Through-hole 5mm,https://www.digikey.com/en/products/detail/kingbright/WP7113GD/1747664
-D8,LED 5mm,Emerald Green,1,Through-hole 5mm,https://www.digikey.com/en/products/detail/kingbright/WP7113GD/1747664
-D9,LED 5mm,Blue,1,Through-hole 5mm,https://www.digikey.com/en/products/detail/kingbright/WP7113QBC-D/1747670
-D10,LED 5mm,Blue,1,Through-hole 5mm,https://www.digikey.com/en/products/detail/kingbright/WP7113QBC-D/1747670
-J1,Pin Header,1x2,1,Through-hole 2.54mm,https://www.digikey.com/en/products/detail/adam-tech/PH2-02-UA/9830344
-J2,Pin Header,1x2,1,Through-hole 2.54mm,https://www.digikey.com/en/products/detail/adam-tech/PH2-02-UA/9830344
+U1,555 Timer IC,NE555P,1,DIP-8,https://www.aliexpress.com/item/32900536764.html
+U2,Decade Counter IC,CD4017BE,1,DIP-16,https://www.aliexpress.com/item/32801071186.html
+R1,Resistor,1kΩ,1,Through-hole axial,https://www.aliexpress.com/item/32847096736.html
+R2,Resistor,1kΩ,1,Through-hole axial,https://www.aliexpress.com/item/32847096736.html
+R3,Resistor,470Ω,1,Through-hole axial,https://www.aliexpress.com/item/32847096736.html
+RV1,Potentiometer,100kΩ,1,Through-hole,https://www.aliexpress.com/item/32854565801.html
+C1,Electrolytic Capacitor,10µF 25V,1,Through-hole radial,https://www.aliexpress.com/item/32961198974.html
+C2,Ceramic Capacitor,0.01µF (103),1,Through-hole,https://www.aliexpress.com/item/32900364791.html
+D1,LED 5mm,Red,1,Through-hole 5mm,https://www.aliexpress.com/item/32848810276.html
+D2,LED 5mm,Red,1,Through-hole 5mm,https://www.aliexpress.com/item/32848810276.html
+D3,LED 5mm,Orange,1,Through-hole 5mm,https://www.aliexpress.com/item/32848810276.html
+D4,LED 5mm,Orange,1,Through-hole 5mm,https://www.aliexpress.com/item/32848810276.html
+D5,LED 5mm,Yellow,1,Through-hole 5mm,https://www.aliexpress.com/item/32848810276.html
+D6,LED 5mm,Yellow,1,Through-hole 5mm,https://www.aliexpress.com/item/32848810276.html
+D7,LED 5mm,Emerald Green,1,Through-hole 5mm,https://www.aliexpress.com/item/32848810276.html
+D8,LED 5mm,Emerald Green,1,Through-hole 5mm,https://www.aliexpress.com/item/32848810276.html
+D9,LED 5mm,Blue,1,Through-hole 5mm,https://www.aliexpress.com/item/32848810276.html
+D10,LED 5mm,Blue,1,Through-hole 5mm,https://www.aliexpress.com/item/32848810276.html
+J1,Pin Header,1x2,1,Through-hole 2.54mm,https://www.aliexpress.com/item/32993182990.html
+J2,Pin Header,1x2,1,Through-hole 2.54mm,https://www.aliexpress.com/item/32993182990.html
