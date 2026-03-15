@@ -1,21 +1,23 @@
-Reference,Component,Value,Quantity,Package,Link
-U1,555 Timer IC,NE555P,1,DIP-8,https://www.aliexpress.com/item/32900536764.html
-U2,Decade Counter IC,CD4017BE,1,DIP-16,https://www.aliexpress.com/item/32801071186.html
-R1,Resistor,1kΩ,1,Through-hole axial,https://www.aliexpress.com/item/32847096736.html
-R2,Resistor,1kΩ,1,Through-hole axial,https://www.aliexpress.com/item/32847096736.html
-R3,Resistor,470Ω,1,Through-hole axial,https://www.aliexpress.com/item/32847096736.html
-RV1,Potentiometer,100kΩ,1,Through-hole,https://www.aliexpress.com/item/32854565801.html
-C1,Electrolytic Capacitor,10µF 25V,1,Through-hole radial,https://www.aliexpress.com/item/32961198974.html
-C2,Ceramic Capacitor,0.01µF (103),1,Through-hole,https://www.aliexpress.com/item/32900364791.html
-D1,LED 5mm,Red,1,Through-hole 5mm,https://www.aliexpress.com/item/32848810276.html
-D2,LED 5mm,Red,1,Through-hole 5mm,https://www.aliexpress.com/item/32848810276.html
-D3,LED 5mm,Orange,1,Through-hole 5mm,https://www.aliexpress.com/item/32848810276.html
-D4,LED 5mm,Orange,1,Through-hole 5mm,https://www.aliexpress.com/item/32848810276.html
-D5,LED 5mm,Yellow,1,Through-hole 5mm,https://www.aliexpress.com/item/32848810276.html
-D6,LED 5mm,Yellow,1,Through-hole 5mm,https://www.aliexpress.com/item/32848810276.html
-D7,LED 5mm,Emerald Green,1,Through-hole 5mm,https://www.aliexpress.com/item/32848810276.html
-D8,LED 5mm,Emerald Green,1,Through-hole 5mm,https://www.aliexpress.com/item/32848810276.html
-D9,LED 5mm,Blue,1,Through-hole 5mm,https://www.aliexpress.com/item/32848810276.html
-D10,LED 5mm,Blue,1,Through-hole 5mm,https://www.aliexpress.com/item/32848810276.html
-J1,Pin Header,1x2,1,Through-hole 2.54mm,https://www.aliexpress.com/item/32993182990.html
-J2,Pin Header,1x2,1,Through-hole 2.54mm,https://www.aliexpress.com/item/32993182990.html
+Item,Description,Quantity,URL,Price
+555 Timer IC,NE555P,1,https://www.aliexpress.us/item/3256804684618404.html?spm=a2g0o.cart.0.0.bc3e38dagHfZj4&mp=1&pdp_npi=6%40dis%21USD%21USD%202.43%21USD%200.99%21%21USD%200.99%21%21%21%402101df0e17735861113097465eeeb6%2112000031690172437%21ct%21US%217393145748%21%211%210%21&_gl=1*ytmdnx*_gcl_au*Njk1MTIyMTU1LjE3NzM1ODYwNzM.*_ga*MTI1NzA2NzY1MDE4NjA2Ni4xNzczNTg2MDY4OTQ1*_ga_VED1YSGNC7*czE3NzM1ODYwNzMkbzEkZzEkdDE3NzM1ODYxMTMkajIwJGwwJGgw&gatewayAdapt=glo2usa,2.43
+Decade Counter IC,CD4017BE,1,https://www.aliexpress.us/item/3256807161032869.html?spm=a2g0o.cart.0.0.bc3e38dagHfZj4&mp=1&pdp_npi=6%40dis%21USD%21USD%204.34%21USD%200.99%21%21USD%200.99%21%21%21%402101df0e17735861113097465eeeb6%2112000040362505072%21ct%21US%217393145748%21%211%210%21&_gl=1*u5uy2c*_gcl_au*Njk1MTIyMTU1LjE3NzM1ODYwNzM.*_ga*MTI1NzA2NzY1MDE4NjA2Ni4xNzczNTg2MDY4OTQ1*_ga_VED1YSGNC7*czE3NzM1ODYwNzMkbzEkZzEkdDE3NzM1ODYxNTgkajYwJGwwJGgw&gatewayAdapt=glo2usa,2.13
+Resistor,1kΩ,1,https://www.aliexpress.us/item/3256806000575463.html?spm=a2g0o.cart.0.0.5b6938daxnHRef&mp=1&pdp_npi=6%40dis%21USD%21USD%203.09%21USD%200.99%21%21USD%200.99%21%21%21%402101eecd17736053173843557ed1d4%2112000036221638148%21ct%21US%217393145748%21%211%210%21&gatewayAdapt=glo2usa,2.1
+Resistor,1kΩ,1,,
+Resistor,470Ω,1,,
+Potentiometer,100kΩ,1,https://www.aliexpress.us/item/3256807891202884.html?gatewayAdapt=glo2usa4itemAdapt,1.96
+Electrolytic Capacitor,10µF 25V,1,https://www.aliexpress.us/item/3256802338659126.html?gatewayAdapt=glo2usa4itemAdapt,1.84
+Ceramic Capacitor,0.01µF (103),1,https://www.aliexpress.us/item/3256807979483333.html?gatewayAdapt=glo2usa4itemAdapt,2.44
+LED 5mm,Red,1,https://www.aliexpress.us/item/3256805448507209.html?gatewayAdapt=glo2usa4itemAdapt,3.08
+LED 5mm,Red,1,,
+LED 5mm,Orange,1,,
+LED 5mm,Orange,1,,
+LED 5mm,Yellow,1,,
+LED 5mm,Yellow,1,,
+LED 5mm,Emerald Green,1,,
+LED 5mm,Emerald Green,1,,
+LED 5mm,Blue,1,,
+LED 5mm,Blue,1,,
+Pin Header,1x2,1,https://www.aliexpress.us/item/2255800801798474.html?gatewayAdapt=glo2usa4itemAdapt,0.99
+Pin Header,1x2,1,,
+PCB,,,,2
+,,,,18.97
